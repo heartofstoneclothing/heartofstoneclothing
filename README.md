@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img src="https://avatars.githubusercontent.com/u/124478163?v=4" alt="avatar" width="150" align="right" style="margin: 0 0 1em 1em;" />
+
 <!--
 **heartofstoneclothing/heartofstoneclothing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
