@@ -6,13 +6,54 @@ body {
   align-items: center;
   height: 100vh;
 }
+header {
+  background: #222;
+  color: rgb(236, 38, 38, 0.9);
+  padding: 1em;
+  text-align: center;
+}
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2rem;
+}
 .card {
-  background: white;
+  background: rgba(31, 17, 158, 0.9);
   border-radius: 1rem;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
   text-align: center;
   padding: 2rem;
   width: 300px;
+  color: crimson;
+}
+.about {
+  background: rgba(255, 255, 255, 0.8);
+  padding: 1rem;
+  border-radius: 0.5rem;
+}
+.projects {
+  background: rgba(255, 255, 255, 0.8);
+  padding: 1rem;
+  border-radius: 0.5rem;
+}
+.skills {
+  background: rgba(255, 255, 255, 0.8);
+  padding: 1rem;
+  border-radius: 0.5rem;
+}
+.contact {
+  background: rgba(255, 255, 255, 0.8);
+  padding: 1rem;
+  border-radius: 0.5rem;
+}
+h1,
+h2,
+h3 {
+  background-color: cadetblue;
+  color: #000000;
+  margin: 0.5rem 0;
+  text-decoration: underline;
 }
 .avatar {
   width: 100px;
